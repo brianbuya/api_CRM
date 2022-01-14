@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Brian",
+      "empresa": "Fyrsa",
+      "email": "fyrsa@fyrsa.com.ar",
+      "telefono": "1150550505",
+      "notas": "hola",
+      "id": 1
+    },
+    {
+      "nombre": "Axel",
+      "empresa": "producto terminado",
+      "email": "corr@producto.com",
+      "telefono": "1203343",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Andres",
+      "empresa": "los cuatro",
+      "email": "loscuatro@gmail.com",
+      "telefono": "34872834",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
